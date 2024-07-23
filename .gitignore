@@ -1,0 +1,36 @@
+1_Old/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+ENV/
+env/
+venv.bak/
+env.bak/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Logs and temporary files
+*.log
+
+# Test and coverage reports
+.pytest_cache/
+.coverage
+coverage.xml
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Pyre type checker
+.pyre/
+
+# Cython debug symbols
+cython_debug/

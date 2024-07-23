@@ -1,0 +1,12 @@
+langchain-aws
+langchain-core
+langchain-community
+boto3
+fastapi
+uvicorn
+sqlmodel
+psycopg2
+python-dotenv
+passlib[bcrypt]
+pymongo[srv]
+
